@@ -1,0 +1,97 @@
+
+@media screen and (max-width: 1024px){
+	#wrapper{
+		width: 76.17%; 
+	}
+	#header li, a{
+		padding: 5px;
+		font-size: 18px;
+	}
+	#header form{
+		margin-top: -70px;
+	}
+	#daftar-artikel{
+		width: 100%;
+	}
+	.artikel img{
+		margin-right: 50px;
+	}
+	#myform button, input, textarea{
+		margin: 5px;
+	}
+	#sidebar{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 960px){
+	#wrapper{
+		width: 81.25%;
+	}
+	#header li, a{
+		padding: 3px;
+		font-size: 13px;
+	}
+	#header form{
+		margin-top: -60px;
+	}
+	#daftar-artikel{
+		width: 100%;
+	}
+	.artikel img{
+		margin-right: 50px;
+	}
+	#myform button, input, textarea{
+		margin: 5px;
+	}
+	#sidebar{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 880px){
+	#wrapper{
+		width: 88.64%;
+	}
+	#header li, a{
+		padding: 5px;
+		font-size: 17px;
+	}
+	#header form{
+		margin-top: -70px;
+	}
+}
+@media screen and (max-width: 768px){
+	#wrapper{
+		width: 98.46%;
+	}
+}
+@media screen and (max-width: 667px){
+	#wrapper{
+		width: 85.51%;
+	}
+	#header li, a{
+		padding: 3px;
+		font-size: 15px;
+	}
+	#header form{
+		margin-top: -65px;
+	}	
+}
+@media screen and (max-width: 460px){
+	#wrapper{
+		width: 80%;
+	}
+	#header img{
+		margin-left: 10px;
+	}
+	#header li, a{
+		padding: 2px;
+		font-size: 12px;
+	}
+	#header form{
+		margin-top: -60px;
+		margin-right: 2px;
+	}
+	#myform textarea{
+		width: 80%;
+	}
+}
